@@ -14,8 +14,9 @@ The system detects people across video frames and assigns **consistent track IDs
 ---
 
 📁 Repository Structure
-<img width="678" height="603" alt="image" src="https://github.com/user-attachments/assets/a350e066-5c0d-489e-9318-0b79a1035322" />
+<img width="719" height="611" alt="image" src="https://github.com/user-attachments/assets/b5c4e023-8be9-4474-a35a-5aacda7a84f5" />
 
+---
 
 🚀 Quick Start
 # 1. Clone repo
@@ -25,8 +26,8 @@ cd yolov8-deepsort
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Download pretrained ReID model (if not included)
-# See model_data/mars-small128.pb 
+# 3. Download pretrained ReID model (if not included) 
+mars-small128.pb
 
 # 4. Run tracker script
 python main.py ---> Generates an output video with detections
