@@ -14,6 +14,7 @@ The system detects people across video frames and assigns **consistent track IDs
 ---
 
 📁 Repository Structure
+---
 <img width="719" height="611" alt="image" src="https://github.com/user-attachments/assets/b5c4e023-8be9-4474-a35a-5aacda7a84f5" />
 
 ---
